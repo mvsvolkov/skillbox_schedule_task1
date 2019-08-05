@@ -57,16 +57,19 @@ $program = [
 
 $result = [
     [
+        'name' => 'Первый этап',
         'started_at' => '08.08.2019',
         'duration' => 5,
         'ended_at' => '12.08.2019',
     ],
     [
+        'name' => 'Второй этап',
         'started_at' => '13.08.2019',
         'duration' => 4,
         'ended_at' => '16.08.2019',
     ],
     [
+        'name' => 'Третий этап',
         'started_at' => '19.08.2019',
         'duration' => 5,
         'ended_at' => '19.08.2019',
