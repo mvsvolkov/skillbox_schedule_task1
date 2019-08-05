@@ -71,7 +71,7 @@ $result = [
     [
         'name' => 'Третий этап',
         'started_at' => '19.08.2019',
-        'duration' => 5,
+        'duration' => 1,
         'ended_at' => '19.08.2019',
     ],
 ];
